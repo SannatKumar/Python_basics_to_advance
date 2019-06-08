@@ -1,4 +1,4 @@
 # Python_basics
 Python started
 
-Basics numbers and string handling"
+Basics to Advances and few simple programs
