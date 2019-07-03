@@ -1,4 +1,4 @@
-# Here we will take string input from the user
+# Here we count prime numbers until the given numbers
 print("Enter your Number: ")
 x = int(input())
 count = 0
