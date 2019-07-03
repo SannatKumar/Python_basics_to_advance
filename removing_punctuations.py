@@ -1,4 +1,4 @@
-# Here we use function to check the palindrome
+# Removing the symbols and punctuations as part of data cleaning
 
 def string_cleaning(string):
     punctuations = '''!()-_[]{}:;'"\,<>.?/@#$%^&*~`'''
